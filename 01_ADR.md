@@ -71,7 +71,7 @@ SupportFlow AI обробляє **~8M звернень щомісяця** (96M/�
 ## ADR-002: Патерн розгортання та відкатів (Progressive Canary Deployments через Argo Rollouts)
 
 - **Статус:** Accepted
-- **Дата:** 2026-02-19
+- **Дата:** 2027-02-19
 - **Особа, що приймає рішення:** Senior AI PM (у консультації з Lead MLOps Engineer)
 - **Проконсультовано з такими Stakeholder'ами:** CTO, VP Engineering, Lead MLOps Engineer, Head of Support
 
@@ -134,7 +134,7 @@ SupportFlow AI обробляє **~8M звернень щомісяця** (96M/�
 ## ADR-003: Стратегія Model Registry та аудиту походження (Self-Hosted MLflow Registry на AWS EKS + S3 Object Lock)
 
 - **Статус:** Accepted
-- **Дата:** 2026-02-20
+- **Дата:** 2027-02-20
 - **Особа, що приймає рішення:** Senior AI PM (у консультації з ML Lead та Head of Compliance)
 - **Проконсультовано з такими Stakeholder'ами:** ML Lead, Lead MLOps Engineer, Head of Compliance (DPO), CTO
 
@@ -196,7 +196,7 @@ SupportFlow AI обробляє **~8M звернень щомісяця** (96M/�
 ## ADR-004: Стек спостережуваності та аудиту (Prometheus + Grafana + Loki + OpenTelemetry + S3 Archive)
 
 - **Статус:** Accepted
-- **Дата:** 2026-02-21
+- **Дата:** 2027-02-21
 - **Особа, що приймає рішення:** Senior AI PM (у консультації з Lead MLOps Engineer)
 - **Проконсультовано з такими Stakeholder'ами:** CTO, Lead MLOps Engineer, Head of Support, Head of Compliance
 
@@ -258,7 +258,7 @@ SupportFlow AI повинен одночасно контролювати сис
 ## ADR-005: Архітектура векторного сховища для RAG (Pinecone Enterprise з жорсткою Namespace-ізоляцією)
 
 - **Статус:** Accepted
-- **Дата:** 2026-02-22
+- **Дата:** 2027-02-22
 - **Особа, що приймає рішення:** Senior AI PM (у консультації з CTO та Head of Compliance)
 - **Проконсультовано з такими Stakeholder'ами:** CTO, Backend Lead, ML Lead, Head of Compliance (DPO), CFO
 
